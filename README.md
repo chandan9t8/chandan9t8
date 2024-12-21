@@ -1,5 +1,7 @@
 # Hi there! I am Chandan 👋🏻
-I'm a recent graduate in computer Science from Purdue University Indianapolis with a masters in Computer Science.<br>I like to make sense of data and build cool software applications involving that makes use of it. <br>I am looking for roles as a data scientist/ ML Engineer. <br>I also have a little bit of experience with AWS and am working towards a certification.  <br>
+🏛️ I'm a recent graduate in computer Science from Purdue University Indianapolis with a masters in Computer Science.<br>
+❗️ I like to make sense of data and build cool software applications. If you are hiring for any data related roles, let's talk!<br>
+🖥️ I have previously worked as a Software Engineer at Infosys building microservices in Golang for a major Telecom client in the US. <br>
 
 
 ## 🌐 Socials:
